@@ -1,2 +1,6 @@
-# e.g.C-
-C++ practice program 
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Hello world.";
+    return 0;
+}
